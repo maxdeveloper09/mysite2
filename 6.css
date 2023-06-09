@@ -1,0 +1,426 @@
+.text {
+    color:yellow
+}
+.text2 {
+    color:red
+}
+.text3 {
+    color:blue;
+    font-size:28px;
+}
+.text4 {
+    color:blue;
+    font-size: 28px;
+}
+.lo {
+    color:yellow;
+    font-size: 30px;
+}
+.text5 {
+    color:fuchsia;
+    font-size:45px;
+}
+.tr1 {
+    color:aqua
+}
+.p1 {
+    color:green;
+    font-size:35px;
+}
+.p2 {
+    color:blue;
+    font-size:30px;
+    font-family:inherit;
+}
+.p4 {
+    color:black;
+    font-size:24px;
+}
+.p5 {
+    color:green;
+    font-size:50px
+}
+.text8 {
+    color:forestgreen;
+    font-size:25px;
+    font-family:initial;
+}
+.text9 {
+    color:black;
+    font-size:24px;
+    font-family:initial
+}
+.text10 {
+    color:aqua;
+    font-size:27px;
+    font-family:initial;
+}
+.text11 {
+    color:black;
+    font-size:24px;
+    font-family:initial
+}
+.photo {
+    border-radius: 100%;
+}
+.divhobbi {
+    background: red;
+    padding:40px 120px;
+    border: 5px solid blue;
+}
+.divname {
+    background: aqua;
+    padding:15px 70px;
+}
+.divbody {
+    max-width:100%;
+    margin:0;
+}
+.dividols {
+    background:blueviolet ;
+    padding: 30px;
+}
+.divdurov {
+    background: yellow;
+    padding: 30px;
+}
+.divmot {
+    background:burlywood;
+    padding:20px
+}
+.divzuc {
+    background: palevioletred;
+    padding: 30px;
+}
+.divbut {
+    background: green;
+    padding: 30px;
+}
+.photo4 {
+    border-radius: 10%;
+}
+.photo3 {
+    border-radius: 10%;
+}
+.photo2 {
+    border-radius: 10%;
+}
+.bio {
+    font-size: 25px;
+    color:blueviolet;
+}
+.bioit {
+    font-size: 25px;
+    color:green;
+}
+.info {
+    background: rgb(184, 109, 121);
+    padding: 20px;
+}
+.infop {
+    color:yellow;
+    font-size:30px;
+}
+.infoal {
+    background: blue;
+    padding:15px;
+}
+.achiv {
+    color:aqua;
+    font-size:30px;
+}
+.divac {
+    background: yellow;
+    padding:13px;
+}
+.divcity {
+    background:rgb(56, 228, 14);
+    padding:25px;
+}
+.achiv2 {
+    color:black;
+}
+.contact {
+    color:royalblue;
+    font-size:30px;
+}
+.vk {
+    color:yellow;
+    font-size:30px;
+}
+.divhelp {
+    background:darkviolet;
+    padding:15px;
+}
+.help {
+    color:red;
+    font-size:30px;
+}
+.cont {
+    border:7px solid black;
+    background:dimgray;
+    padding:10px 20px;
+}
+.divhelp2 {
+    background: aqua;
+    padding: 40px;
+}
+.clava {
+    padding: 0px 30px;
+}
+.progress {
+    padding: 30px 200px;
+    font-size:40px;
+}
+.clava3 {
+    padding: 0px 30px;
+    font-size:30px;
+}
+.divclava2 {
+    padding: -70px 35px;
+}
+.text20 {
+    font-size:30px;
+    color:blue
+}
+.donat {
+    font-size:25px;
+    color:gray
+}
+@media (max-width:1000px) {
+    .clava2 {
+        font-size:17px;
+    }
+}
+@media (max-width:1600px) {
+    .clava2 {
+        font-size:40px;
+    }
+}
+@media (max-width:700px) {
+    .clava2 {
+        font-size:24px
+    }
+}
+@media (max-width:500px) {
+    .clava2 {
+        font-size:12px
+    }
+}
+@media (max-width:400px) {
+    .clava2 {
+        font-size:10px
+    }
+}
+@media (max-width:300px) {
+    .clava2 {
+        font-size:9px
+    }
+}
+@media (max-width:200px) {
+    .clava2 {
+        font-size:7px
+    }
+}
+@media (max-width:1680px) {
+    .achiv2 {
+        font-size:30px
+    }
+}
+@media (max-width:1500px) {
+    .achiv2 {
+        font-size:27px
+    }
+}
+@media (max-width:1300px) {
+    .achiv2 {
+        font-size:23px
+    }
+}
+@media (max-width:1000px) {
+    .achiv2 {
+        font-size:19px
+    }
+}
+@media (max-width:700px) {
+    .achiv2 {
+        font-size:16px
+    }
+}
+@media (max-width:500px) {
+    .achiv2 {
+        font-size:13px
+    }
+}
+@media (max-width:300px) {
+    .achiv2 {
+        font-size:10px
+    }
+}
+@media (max-width:200px) {
+    .achiv2 {
+        font-size:8px
+    }
+}
+@media (max-width:150px) {
+    .achiv2 {
+        font-size:7px
+    }
+}
+@media (max-width:100px) {
+    .achiv2 {
+        font-size:6px
+    }
+}
+.divinfo2 {
+    padding:0px 30px
+}
+@media (max-width:1000px) {
+    .text {
+        font-size:20px
+    }
+}
+@media (max-width:800px) {
+    .text {
+        font-size:17px
+    }
+}
+@media (max-width:400px) {
+    .text {
+        font-size:13px
+    }
+}
+@media (max-height:1050px) {
+    .clava2 {
+        font-size:30px
+    }
+}
+@media (max-height:900px) {
+    .clava2 {
+        font-size:26px
+    }
+}
+@media (max-height:800px) {
+    .clava2 {
+        font-size:24px
+    }
+}
+@media (max-height:700px) {
+    .clava2 {
+        font-size:22px
+    }
+}
+@media (max-height:600px) {
+    .clava2 {
+        font-size:20px
+    }
+}
+@media (max-height:500px) {
+    .clava2 {
+        font-size:15px
+    }
+}
+@media (max-height:400px) {
+    .clava2 {
+        font-size:10px
+    }
+}
+@media (max-height:300px) {
+    .clava2 {
+        font-size:6px
+    }
+}
+@media (max-height:1050px) {
+    .achiv2 {
+        font-size:30px
+    }
+}
+@media (max-height:900px) {
+    .achiv2 {
+        font-size:26px
+    }
+}
+@media (max-height:800px) {
+    .achiv2 {
+        font-size:24px
+    }
+}
+@media (max-height:700px) {
+    .achiv2 {
+        font-size:22px
+    }
+}
+@media (max-height:600px) {
+    .achiv2 {
+        font-size:20px
+    }
+}
+@media (max-height:500px) {
+    .achiv2 {
+        font-size:18px
+    }
+}
+@media (max-height:400px) {
+    .achiv2 {
+        font-size:10px
+    }
+}
+@media (max-height:300px) {
+    .achiv2 {
+        font-size:6px
+    }
+}
+@media (max-width:1680px) {
+    .tgn {
+        width:350;
+        height:300px;
+    }
+}
+@media (max-width:1500px) {
+    .tgn {
+        width:330px;
+        height:280px;
+    }
+}
+@media (max-width:1300px) {
+    .tgn {
+        width:315px;
+        height:265px;
+    }
+}
+@media (max-width:1000px) {
+    .tgn {
+        width:295px;
+        height:245px;
+    }
+}
+@media (max-width:800px) {
+    .tgn {
+        width: 265px;
+        height:215px
+    }
+}
+@media (max-width:600px) {
+    .tgn {
+        width:245px;
+        height:195px;
+    }
+}
+@media (max-width:400px) {
+    .tgn {
+        width:225px;
+        height:175px;
+    }
+}
+@media (max-width:300px) {
+    .tgn {
+        width:210;
+        height:160px;
+    }
+}
+@media (max-width:200px) {
+    .tgn {
+        width:200px;
+        height:150px;
+    }
+}
